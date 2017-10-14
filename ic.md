@@ -5,6 +5,7 @@ institute: Master-Lehrgang Technische Dokumentation
 date: 2017-10-13
 nocite: |
   @*
+
 ---
 
 
@@ -127,6 +128,7 @@ Bild: @hane2017
 ​---
 
 > And when it is structurally rich, and assuming our content is in XML, we can use XQuery [], a standard that supports queries of XML data - not just XML files, but anything that can appear as XML, including databases.[@rockley2011]
+
 ---
 
 
@@ -365,5 +367,6 @@ Bild: @gollner2016
 
 Repository: [heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content](https://github.com/heinzwittenbrink/slides-intelligentcontent "heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content")
 
-Literatur: https://heinzwittenbrink.github.io/slides-intelligentcontent/ic.html#refs
+Literatur: [https://heinzwittenbrink.github.io/slides-intelligentcontent/ic.html#refs](https://heinzwittenbrink.github.io/slides-intelligentcontent/ic.html#refs)
 
+## Quellen
