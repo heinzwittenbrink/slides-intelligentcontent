@@ -361,5 +361,9 @@ Bild: @gollner2016
 [Adobe DITA World 2017](https://2017-adobe-dita-world.meetus.adobeevents.com/ "Adobe DITA World 2017 - Adobe DITA World 2017 – The DITA Online Conference | Adobe Events")
 
 
-## Literatur
+## Präsentation und Literatur
+
+Repository: [heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content](https://github.com/heinzwittenbrink/slides-intelligentcontent "heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content")
+
+
 
