@@ -354,7 +354,7 @@ Bild: @gollner2016
 
 # Ressourcen
 
-## Events:
+## Events
 
 [Intelligent Content Conference](http://www.intelligentcontentconference.com/ "2017 Intelligent Content Conference Las Vegas, Nevada")
 
