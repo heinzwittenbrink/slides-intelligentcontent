@@ -365,5 +365,5 @@ Bild: @gollner2016
 
 Repository: [heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content](https://github.com/heinzwittenbrink/slides-intelligentcontent "heinzwittenbrink/slides-intelligentcontent: Slides for presentations on intelligent content")
 
-
+Literatur: https://heinzwittenbrink.github.io/slides-intelligentcontent/ic.html#refs
 
