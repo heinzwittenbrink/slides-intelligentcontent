@@ -3,10 +3,10 @@ author: Heinz Wittenbrink
 title: Intelligent Content und Content 4.0
 institute: Master-Lehrgang Technische Dokumentation
 date: 2017-10-13
+nocite: |
+  @*
 ---
 
-
-# Intelligent Content - Content 4.0
 
 
 # Zur Definition
@@ -22,19 +22,69 @@ date: 2017-10-13
 
 # Wozu intelligent content?
 
+## Digitaler vs. analoger Inhalt
+
+- Leichte Wiederverwendung
+- viele Präsentationsformen
+- Viele Versionen
+- Viele Funktionen
+- Durchsuchbarkeit
+- Verarbeitbarkeit
+
+---
+
+![Kontexte und Vielfalt von Inhalten](http://intentionaldesign.ca/www/pmh3472/public_html/wp-content/uploads/2015/08/Multiplicity-1024x557.jpg)
+
+Bild: [@bailie2015]
+
+---
+
+## Probleme:
+
+- Uneinheitlichkeit
+- Redundanz
+- Fehlende Aktualität
+- Kosten
+
+## Digitale vs. analoge Einheiten
+
+| Analoger Inhalt | Digitaler Inhalt |
+| --- |--- |
+| Seiten | Textketten und Markup |
+| Bücher| Datenaggregate |
+|Externe Klassifikation | Metadaten |
+
+
+---
+
+## Anforderungen an Inhalte
+
+- Kontextunabhängigkeit sichert Verarbeitung: Alle relevanten Informationen müssen mit dem Inhalte verbunden sein
+- Standards sichern Kombinierbarkeit: Definierte Formate erlauben
+
 ---
 
 > It is only with intelligent content [] that it becomes possible to talk about a sustainable enterprise content strategy.[@rockley2011]
 
 ---
 
-> An intelligent content strategy establishes a coherent plan under which content will be designed, developed and deployed so as to achieve maximum benefit to the customer and the organization while minimizing the cost to the organization. [@rockley2011]
+## Intelligenter Content und Content-Strategie gehören zusammen
+
+- Analyse der Inhalte
+- Planung der Verwendungssituationen
+- Erfolgskontrolle
 
 ---
+
+> An intelligent content strategy establishes a coherent plan under which content will be designed, developed and deployed so as to achieve maximum benefit to the customer and the organization while minimizing the cost to the organization. [@rockley2011]
+
+
 
 ## Automatisierung
 
 > automation doesn't just happen. Content must be consciously designed to support it.[@rockley2011]
+
+---
 
 > If we design and prepare content in a way that is completely portable and open, then a wide range of applications can be used to automate common content tasks such as formatting.[@rockley2011]
 
@@ -43,7 +93,7 @@ date: 2017-10-13
 
 ---
 
-> Intelligent content is content that is structurally rich and semantically categorized, and is therefore automatically discoverable, reusable, reconfigurable and adaptable.
+> Intelligent content is content that is structurally rich and semantically categorized, and is therefore automatically discoverable, reusable, reconfigurable and adaptable.[@rockley2011]
 
 ---
 
@@ -74,13 +124,15 @@ Bild: @hane2017
 
 > Without semantic metadata it is very difficult to automatically, let alone manually, find the content we need.[@rockley2011]
 
-​
+​---
 
 > And when it is structurally rich, and assuming our content is in XML, we can use XQuery [], a standard that supports queries of XML data - not just XML files, but anything that can appear as XML, including databases.[@rockley2011]
-
 ---
 
-> content mining[@rockley2011]
+
+## Content Mining
+
+![Personalisierte Empfehlungen in den Google News](pics/google_recommendations.png){ width=70% }
 
 
 
@@ -92,12 +144,10 @@ Bild: @hane2017
 
 ## Dynamically Reconfigurable
 
-​
 
 > Knowing the structure of the content, we can output it to multiple channels reconfiguring it to best meet the needs of the channel, or we can automatically mix and match content to provide us with the information customers need []. We can even transform content (reconfigure it) from one structure to another,[@rockley2011]
 
 ## Completely Adaptable
-
 
 
 > but content can be adapted (used in a different way), often without our knowledge, to meet a new need.[@rockley2011]
@@ -110,16 +160,31 @@ Bild: @hane2017
 
 ## Standardisierung
 
+- Standards sichern Portabilität / Unabhängigkeit von Systemen und Anbietern
+- Wichtigste Standards für Intelligent Content: Inhaltsformate (XML), Metadaten
 
-# Was braucht man dazu in einer Organisation?
 
----
+# Voraussetzungen in der Organisation?
+
 
 ## Zentrale Content-Verantwortung
 
+- Festlegung der Strategie
+- Definition von Standards
+- Durchsetzung der Strategie
+- Erfolgskontrolle
+
+
 ## Technischer Support
 
+- Content Management
+- Schulung und Weiterbildung
+- Benutzerfreundliche Oberflächen
+
 ## Keine Silos
+
+- Inhalte sind gemeinsame Assets
+- Veränderungen müssen sofort kommuniziert werden
 
 
 # Strategientwicklung
@@ -129,14 +194,14 @@ Bild: @hane2017
 
 ​--- 
 
-> Technology. An effective strategy begins at the design stage, works through the authoring stage, ends at the delivery stage and is continually revisited to ensure it continues to meet the needs of authors, content and customers.[@rockley2011]
+> An effective strategy begins at the design stage, works through the authoring stage, ends at the delivery stage and is continually revisited to ensure it continues to meet the needs of authors, content and customers.[@rockley2011]
 
 ​
 
 ## Content Modellierung
 
 
-> Content models. The information modeling process [] forces you to consider all information requirements (either for a specific project or within an entire organization) and to assess what information is available to fulfill those requirements. In an intelligent content strategy, the information model reflects the semantic structure of your information both at the information product level (for example, brochure) and at the element level (for example, value proposition).[@rockley2011]
+> The information modeling process [...] forces you to consider all information requirements [...] In an intelligent content strategy, the information model reflects the semantic structure of your information both at the information product level (for example, brochure) and at the element level (for example, value proposition).[@rockley2011]
 
 ---
 
@@ -146,8 +211,6 @@ Bild: @rachellovinger2013
 
 
 ## Wiederverwendungsstrategie
-
-
 ​
 
 > Reuse strategy. A reuse strategy identifies what types of content will be reused, the level of granularity, how the content will be reused and how to support authors in easily and effectively reusing it. Your strategy will depend upon your goals, your content, your authors and your selected technology.[@rockley2011]
@@ -156,15 +219,20 @@ Bild: @rachellovinger2013
 ## Taxonomy Strategy
 
 
-> Taxonomy strategy. The taxonomy strategy enables you to intelligently store and retrieve your content based on a common vocabulary and shared metadata. In addition to traditional metadata for information storage and retrieval, it is important to develop metadata to define the delivery channel (print, web, wireless), the method of filtering the content (product, customer segment/audience, region, product version) and the final information product (brochure, web, eBook).[@rockley2011]
+> The taxonomy strategy enables you to intelligently store and retrieve your content based on a common vocabulary and shared metadata. [@rockley2011]
+
+---
+
+> In addition to traditional metadata for information storage and retrieval, it is important to develop metadata to define the delivery channel (print, web, wireless), the method of filtering the content (product, customer segment/audience, region, product version) and the final information product (brochure, web, eBook).[@rockley2011]
 
 ## Workflows
 
 
-> Creating intelligent processes (workflow). An intelligent content strategy also involves people and intelligent (collaborative) processes. Collaboration ensures that the content elements are consistent and can be reused wherever they're required. Processes should be redesigned to match the intelligent content strategy and support the way the authors work. Workflow can be used to support these processes.[@rockley2011]
+> An intelligent content strategy also involves people and intelligent (collaborative) processes. Collaboration ensures that the content elements are consistent and can be reused wherever they're required. Processes should be redesigned to match the intelligent content strategy and support the way the authors work. [@rockley2011]
 
+---
 
-> We determined that the Darwin Information Typing Architecture (DITA) [] was appropriate for the content development. With DITA - an XML-based, end-to-end architecture for authoring, producing and delivering technical information - we could create structured, modular, reusable content [] that could be automatically adapted to each of the desired outputs (print, web, mobile). It also provided a strong support for translation.[@rockley2011]
+> With DITA - an XML-based, end-to-end architecture for authoring, producing and delivering technical information - we could create structured, modular, reusable content [...] that could be automatically adapted to each of the desired outputs (print, web, mobile). It also provided a strong support for translation.[@rockley2011]
 
 
 
@@ -173,14 +241,14 @@ Bild: @rachellovinger2013
 
 ## XML
 
-The role of XML. Everywhere you go, you hear about the use of XML. XML is being used on the web, in rich media and for content. While you don't have to use XML for your content, XML really helps make your content intelligent. Traditional office documents are simply files, and you have no access to the content because content is unstructured.[@rockley2011]
+> While you don't have to use XML for your content, XML really helps make your content intelligent. Traditional office documents are simply files, and you have no access to the content because content is unstructured.[@rockley2011]
 
 ## XML und Content Delivery
 
 
 > The power of XML for delivery. When it comes to delivering content, XML gives us a very wide range of options. In fact, part of the rationale for XML was to liberate content owners from being limited to providing only one or two delivery formats[@rockley2011]
 
----
+
 
 ## DITA: Maps
 
@@ -217,19 +285,72 @@ The role of XML. Everywhere you go, you hear about the use of XML. XML is being 
 </map>
 ~~~
 
----
+
 
 
 ## XQuery
+
+~~~ { .xml }
+
+declare variable $firstName as xs:string external;
+<videos featuring="{$firstName}">
+{
+let $doc := .
+for $v in $doc//video,
+$a in $doc//actors/actor
+where ends-with($a, $firstName)
+and $v/actorRef = $a/@id
+order by $v/year
+return
+<video year="{$v/year}">
+{$v/title}
+</video>
+}
+< /videos>
+
+~~~
+
+Quelle: @kay
+
+---
+~~~ { .xml }
+
+<videos featuring="Lisa">
+<video year="1999">
+<title>Enemy of the State</title>
+</video>
+<video year="1999">
+<title>Clerks</title>
+</video>
+</videos>
+
+~~~
+Quelle: @kay
 
 ## DocBook
 
 > DocBook does not support reuse as effectively as DITA, but it does provide a simpler conversion path from traditional business documents to XML.[@rockley2011]
 
+Beispiel: [docbook.org/docs/howto/howto.xml](http://docbook.org/docs/howto/howto.xml "docbook.org/docs/howto/howto.xml")
+
 ## Component CMS
 
 
 > Intelligent content needs an XML-aware system like a component content management system (CCMS) []. CCMS manage content at a granular (component) level of content, rather than at the page or document level.[@rockley2011]
+
+# Content 4.0
+
+## Industrie 4.0
+
+![Von der Industrie 1.0 zur Industrie 4.0](http://jgollner.typepad.com/.a/6a00e54f8d0913883301bb09ba9480970d-800wi)
+
+Bild: @gollner2016
+
+## Molekularer Content
+
+![The Emergence of Content 4.0 for Industry 4.0](http://jgollner.typepad.com/.a/6a00e54f8d0913883301bb09648024970d-500wi)
+
+Bild: @gollner2016
 
 # Ressourcen
 
