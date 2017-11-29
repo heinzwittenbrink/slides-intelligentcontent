@@ -241,6 +241,17 @@ Bild: @rachellovinger2013
 # Implementierung
 
 
+
+# XML und Content Management
+
+## Ann Rockley
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/2as6vcGiRa0" frameborder="0" allowfullscreen></iframe>
+
+https://www.youtube.com/embed/2as6vcGiRa0
+
+
+
 ## XML
 
 > While you don't have to use XML for your content, XML really helps make your content intelligent. Traditional office documents are simply files, and you have no access to the content because content is unstructured.[@rockley2011]
@@ -337,8 +348,9 @@ Beispiel: [docbook.org/docs/howto/howto.xml](http://docbook.org/docs/howto/howto
 
 ## Component CMS
 
-
 > Intelligent content needs an XML-aware system like a component content management system (CCMS) []. CCMS manage content at a granular (component) level of content, rather than at the page or document level.[@rockley2011]
+
+- [Component Content Management: What Is It and Why Does It Matter? - The Content Wrangler](http://thecontentwrangler.com/2008/02/04/component_content_management_what_is_it_and_why_does_it_matter/ "Component Content Management: What Is It and Why Does It Matter? - The Content Wrangler")
 
 # Content 4.0
 
