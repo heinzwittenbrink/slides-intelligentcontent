@@ -32,7 +32,7 @@ date: 2018-10-01
 
 ---
 
-![Kontexte und Vielfalt von Inhalten](pics/multiplicity.jpg "Source: R. Bailie")
+![Kontexte und Vielfalt von Inhalten](pics/multiplicity.jpg "Source: R. Bailie"){ width=70% }
 
 Bild: [@bailie2015]
 
@@ -63,7 +63,7 @@ Bild: [@bailie2015]
 
 ---
 
-> It is only with intelligent content \[...\] that it becomes possible to talk about a sustainable enterprise content strategy.[@rockley2011]
+> It is only with intelligent content \[...\] that it becomes possible to talk about a sustainable enterprise content strategy. [@rockley2011]
 
 ---
 
