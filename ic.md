@@ -32,7 +32,7 @@ date: 2018-10-01
 
 ---
 
-![Kontexte und Vielfalt von Inhalten](http://intentionaldesign.ca/www/pmh3472/public_html/wp-content/uploads/2015/08/Multiplicity-1024x557.jpg "Source: R. Bailie")
+![Kontexte und Vielfalt von Inhalten](pics/multiplicity.jpg "Source: R. Bailie")
 
 Bild: [@bailie2015]
 
