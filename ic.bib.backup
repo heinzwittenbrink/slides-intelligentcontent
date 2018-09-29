@@ -1,3 +1,74 @@
+
+@misc{rockely_emc_????,
+  title = {{{EMC}} and {{X}}-{{Hive}}: {{A}} Major Shift in the Industry? | {{Blog}} | {{Real Story Group}}},
+  howpublished = {https://www.realstorygroup.com/Blog/988-EMC-and-XHive-A-major-shift-in-the-industry},
+  author = {Rockely, Ann},
+  keywords = {Course Material,intelligent content},
+  file = {/home/heinz/Zotero/storage/E2879AP6/988-EMC-and-XHive-A-major-shift-in-the-industry.html}
+}
+
+@misc{daly2012,
+  type = {{{CT316}}},
+  title = {Create Rich-Layout Publications in {{EPUB}} 3 with {{HTML5}}, {{CSS3}}, and {{MathML}}},
+  copyright = {\textcopyright{} Copyright~IBM Corporation~2012},
+  language = {en},
+  howpublished = {http://www.ibm.com/developerworks/library/x-richlayoutepub/index.html},
+  author = {Daly, Liza},
+  month = jul,
+  year = {2012},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/XJQF5GXX/index.html}
+}
+
+@misc{friedman2014,
+  title = {How to {{Quickly Create}} an {{EPUB File From Word}}},
+  abstract = {Word doesn't export to EPUB, but you can still produce an editable file quickly, without buying software or using a "meatgrinder" conversion.},
+  journal = {Jane Friedman},
+  author = {Friedman, Jane},
+  month = dec,
+  year = {2014},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/WPZ6MNPW/word-epub.html}
+}
+
+@misc{kythenix2012,
+  title = {{{EPUB}}: An Introduction},
+  shorttitle = {{{EPUB}}},
+  abstract = {This article provides a brief introduction to the EPUB format (EPUB 2 and EPUB 3 standards), how EPUB differs from other digital book formats, book design considerations and ebook readers supportin\ldots},
+  journal = {Gossamers},
+  author = {Kythe Nix, Linda},
+  month = jan,
+  year = {2012},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/6BSVSWIF/epub-an-introduction.html}
+}
+
+@misc{castro,
+  title = {Making the {{VolkskrantBuilding}}.Epub},
+  abstract = {Andre Castro - Sound Artist - home in the internets. Andr\'e Castro (PT) is a sound artist living in Rotterdam. His practice involves DIY, exploratory, and nonsense strategies to appropriate found media-objects, such as audio-tracks from a colossal online archive, the whispers and silences of radiophonic discourse, or the stories told in spam emails.},
+  howpublished = {https://pinknoise.uno/20141123-Blog-MakingtheVolkskrantBuilding.epub.html},
+  journal = {Andre Castro},
+  author = {Castro, Andr\'e},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/UIDEXZ2I/20141123-Blog-MakingtheVolkskrantBuilding.epub.html}
+}
+
+@misc{rasch,
+  title = {{{DIGITAL PUBLISHING TOOLKIT}} | {{Style Guide}} for {{Hybrid Publishing}}},
+  howpublished = {http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/},
+  author = {Rasch, Miriam},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/8Q6IBVPE/style-guide-for-hybrid-publishing.html}
+}
+
+@misc{murtaugh,
+  title = {{{DIGITAL PUBLISHING TOOLKIT}} | Make Book},
+  howpublished = {http://networkcultures.org/digitalpublishing/2014/10/01/make-book/},
+  author = {Murtaugh, Michael},
+  keywords = {Course Material},
+  file = {/home/heinz/Zotero/storage/XBCEAKXZ/make-book.html}
+}
+
 @misc{kay,
   type = {Stylus {{Studio}}},
   title = {Learn {{XQuery}} in 10 {{Minutes}}, by {{Dr}}. {{Michael Kay}} - {{An XQuery Tutorial}}},
