@@ -32,7 +32,7 @@ date: 2018-10-01
 
 ---
 
-![Kontexte und Vielfalt von Inhalten](http://intentionaldesign.ca/www/pmh3472/public_html/wp-content/uploads/2015/08/Multiplicity-1024x557.jpg)
+![Kontexte und Vielfalt von Inhalten](http://intentionaldesign.ca/www/pmh3472/public_html/wp-content/uploads/2015/08/Multiplicity-1024x557.jpg "Source: R. Bailie")
 
 Bild: [@bailie2015]
 
@@ -67,7 +67,7 @@ Bild: [@bailie2015]
 
 ---
 
-## Intelligent Content needs Content-Strategy 
+## Need for Strategy 
 
 - Analyse der Inhalte
 - Planung der Verwendungssituationen
@@ -226,7 +226,7 @@ Bild: @rachellovinger2013
 ## Reuse Strategy
 ​
 
-> Reuse strategy. A reuse strategy identifies what types of content will be reused, the level of granularity, how the content will be reused and how to support authors in easily and effectively reusing it. Your strategy will depend upon your goals, your content, your authors and your selected technology.[@rockley2011]
+> A reuse strategy identifies what types of content will be reused, the level of granularity, how the content will be reused and how to support authors in easily and effectively reusing it. Your strategy will depend upon your goals, your content, your authors and your selected technology.[@rockley2011]
 
 
 ## Taxonomy Strategy
